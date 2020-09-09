@@ -1,0 +1,51 @@
+﻿Food Code,Name,Serving (g)
+11,milk,244
+12,Cream,32
+13,Ice Cream,130
+14,Cheese,32
+20,Meat (baby Food),32
+21,Beef,65
+22,Pork,84
+23,Lamb/Goat/Veal/Venison,85
+24,Chicken/Turkey,110
+25,Sussages,100
+26,Fish,85
+27,Stew (meat/rice/vegetable),140
+28,frozen meal (containing meat and vegetables),312
+31,egg,50
+32,egg omelet,61
+33,egg omelet substitute,61
+41,Beans,28.35
+42,Nuts,28.35
+43,Seeds,30
+44,Carob Chips,28.35
+51,Bread,25
+52,Biscuits,49
+53,Cakes/cookies/pies,28.35
+54,Crackers,30
+55,Pancakes/waffles,140
+56,Macaroni/Noodle/pasta/rice,176
+57,Cereal,55
+58,Burrito/Taco/Enchilada/Pizza/lasanga,198
+59,"Meat substitute, cereal- and vegetable protein-based, fried",100
+61,grapefruit/lemon/orange,236
+62,dried fruit,28.35
+63,raw apple/apricot/avocado/banana/cantaloupe/cherries/fig/grapes/mango/pear/pineapple/,182
+64,fruit juice,249
+67,fruit based baby food,28.35
+71,potato,369
+72,beet greens/collards/cress/romaine/greens/spinach,38
+73,carrots/pumpkin/squash/sweet potato/,72
+74,tomato/salsa/,123
+75,raw vegetables,163
+76,vegetable (baby food),50
+77,puerto rican style food,250
+78,fruit and vegetable smoothie,233
+81,butter,14.2
+82,oil,14
+83,salad dressing,14
+91,sugar/desserts,200
+92,coffee/soda drink/iced tea,240
+93,beer/alcohol,354
+94,water,236.7
+95,shakes/drink mixes,166
