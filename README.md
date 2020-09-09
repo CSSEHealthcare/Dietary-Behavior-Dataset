@@ -4,8 +4,16 @@ This repository includes all the data necessary to perform inference analysis fo
 ## Structure of the Repository
 Different folders in this repository provide the following data:
 
-[Raw Data](https://github.com/CSSEHealthcare/InverseLearning/tree/master/Raw%20Data): 
-This repository contains Raw data from the NHANES and USDA websites for individual food intakes of patients 
-## Inferrence of Linear Optimization problems
+[Raw Data](https://github.com/CSSEHealthcare/InverseLearning/tree/master/Raw%20Data): This folder contains Raw data from the NHANES and USDA websites for individual food intakes of patients.
 
-In order for the input food data to be tractable, a new categorization of foods was provided based on the first two digits of each item's USDA food code. This new categorization greatly reduced the dimension of the problem. The same data bank was used to set up nutrient constraints by selecting a representative food for each category (for example branded milk for category 11) and recording the per serving nutrients of that representative.
+[Samples](https://github.com/CSSEHealthcare/InverseLearning/tree/master/Samples): Samples with specific purposes are gathered in this folder. Samples are generated with consideration to the demographics and previous conditions of the patients.
+
+[Optimization Model Parameters](https://github.com/CSSEHealthcare/InverseLearning/tree/master/Optimization%20Model%20Parameters) : In order to construct a linear optimization problem with the aim of providing optimal diets, the necessary parameters are gathered.
+
+[Code](https://github.com/CSSEHealthcare/InverseLearning/tree/master/code) : Code for a data-driven model for inference of contrained linear programs will be added here.
+
+## Inferrence of Linear Optimization problems
+Thew data provided here create a perfect example for constrained inference models. The diet recommendation probem is tangible yet fairly complicated issue because of the presence of many constraints and behavioral factors. However, the results of any inference models on such a problem are relatively easy to interpret. 
+
+
+
