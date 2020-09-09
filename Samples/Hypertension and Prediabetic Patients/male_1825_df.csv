@@ -1,0 +1,45 @@
+,Food Code,Name,Serving (g)
+0,11,milk,244.0
+1,12,Cream,32.0
+2,13,Ice Cream,130.0
+3,14,Cheese,32.0
+4,21,Beef,65.0
+5,22,Pork,84.0
+6,23,Lamb/Goat/Veal/Venison,85.0
+7,24,Chicken/Turkey,110.0
+8,25,Sussages,100.0
+9,26,Fish,85.0
+10,27,Stew (meat/rice/vegetable),140.0
+11,28,frozen meal (containing meat and vegetables),312.0
+12,31,egg,50.0
+13,32,egg omelet,61.0
+14,33,egg omelet substitute,61.0
+15,41,Beans,28.4
+16,42,Nuts,28.4
+17,43,Seeds,30.0
+18,51,Bread,25.0
+19,52,Biscuits,49.0
+20,53,Cakes/cookies/pies,28.4
+21,54,Crackers,30.0
+22,55,Pancakes/waffles,140.0
+23,56,Macaroni/Noodle/pasta/rice,176.0
+24,57,Cereal,55.0
+25,58,Burrito/Taco/Enchilada/Pizza/lasanga,198.0
+26,59,"Meat substitute, cereal- and vegetable protein-based, fried",100.0
+27,61,grapefruit/lemon/orange,236.0
+28,62,dried fruit,28.4
+29,63,raw apple/apricot/avocado/banana/cantaloupe/cherries/fig/grapes/mango/pear/pineapple/,182.0
+30,64,fruit juice,249.0
+31,71,potato,369.0
+32,72,beet greens/collards/cress/romaine/greens/spinach,38.0
+33,73,carrots/pumpkin/squash/sweet potato/,72.0
+34,74,tomato/salsa/,123.0
+35,75,raw vegetables,120.0
+36,77,puerto rican style food,250.0
+37,78,fruit and vegetable smoothie,233.0
+38,81,butter,14.2
+39,82,oil,14.0
+40,83,salad dressing,14.0
+41,91,sugar/desserts,200.0
+42,92,coffee/soda drink/iced tea,240.0
+43,95,shakes/drink mixes,166.0
