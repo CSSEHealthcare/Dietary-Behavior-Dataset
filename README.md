@@ -3,6 +3,7 @@ This repository includes all the data necessary to perform inference analysis fo
 
 ## Structure of the Repository
 Different folders in this repository provide the following data:
+
 [Raw Data](https://github.com/CSSEHealthcare/InverseLearning/tree/master/Raw%20Data): 
 This repository contains Raw data from the NHANES and USDA websites for individual food intakes of patients 
 ## Inferrence of Linear Optimization problems
