@@ -17,7 +17,7 @@ Different folders in this repository provide the following data:
 ## Inferrence of Linear Optimization problems
 Thew data provided here create a perfect example for constrained inference models. The diet recommendation probem is tangible yet fairly complicated issue because of the presence of many constraints and behavioral factors. However, the results of any inference models on such a problem are relatively easy to interpret. 
 
-## How to Cite This Work
+## This dataset is intended for educational and research purposes only. Commercial uses are prohibited. If you use our data, please cite:
 You can cite our report in the following link or use the following BibTeX entry:
 
 [An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints](https://arxiv.org/pdf/2010.07531.pdf)
